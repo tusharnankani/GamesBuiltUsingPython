@@ -9,7 +9,7 @@
 
 ##### The board will be printed out every time a player makes a move.
 The board will look like this!
-The positions of this 3 x 3 board is same as the right side of your key board.
+The positions of this 3 x 3 board is same as the **keypad on the right side of your key board**.
 
  7 | 8 | 9
 -----------
