@@ -1,5 +1,5 @@
 # Games built using PYTHON:
-Built a few games while learning Python;
+Built a few games while learning Python.
 ### 1. Guessing Game 
 * Advanced
 ### 2. Rock Paper Scissors W
