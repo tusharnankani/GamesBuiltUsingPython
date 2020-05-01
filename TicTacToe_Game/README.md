@@ -1,6 +1,7 @@
 # TIC-TAC-TOE
 
 #### There are two types: Basic and Advanced.
+###### (Their descriptions are given in their respective folders.)
 
 ### Tic-Tac-Toe Game
 
