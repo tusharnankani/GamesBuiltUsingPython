@@ -3,7 +3,6 @@
 #### There are two types: Basic and Advanced.
 ###### (Their descriptions are given in their respective folders.)
 
-### Tic-Tac-Toe Game
 
 ### Specifications: 
 * 2 players will be able to play the game (*both sitting at the same computer*);
