@@ -8,14 +8,10 @@
 * 2 players will be able to play the game (*both sitting at the same computer*);
 
 ##### The board will be printed out every time a player makes a move.
-The board will look like this!
-The positions of this 3 x 3 board is same as the **keypad on the right side of your key board**.
 
- 7 | 8 | 9
------------
- 4 | 5 | 6
------------
- 1 | 2 | 3
------------
+![1](https://user-images.githubusercontent.com/61280281/81098017-5ffa7480-8f26-11ea-8c4a-a199745d03df.png)
+![3](https://user-images.githubusercontent.com/61280281/81098148-93d59a00-8f26-11ea-9e1f-69a5a9cdb341.png)
 
-#### You just have to input the position(1-9).
+## The board will be printed out every time a player makes a move.
+![2](https://user-images.githubusercontent.com/61280281/81098254-bff11b00-8f26-11ea-860d-edd9d5f40817.png)
+![4](https://user-images.githubusercontent.com/61280281/81098355-e44cf780-8f26-11ea-91b8-89f12f8728f4.png)
