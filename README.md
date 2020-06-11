@@ -8,7 +8,7 @@ Built a few games while learning Python.
 * A 2-Player Game, sitting on the same computer.
 #
 #
-## P.S. I have just built the logic for these games till now; and they can just be played on the Command Line (Terminal)/Jupyter Notebooks.
+## NOTE: I have just built the logic for these games till now; and they can just be played on the Command Line (Terminal)/Jupyter Notebooks.
 ### NEXT GOAL:
 #### 1. Building GUI for all the games, using tkinter module.
 #### 2. Building another mode for TIC-TAC-TOE playing with the Computer - Levels (Easy/Intermediate/Difficult) 
