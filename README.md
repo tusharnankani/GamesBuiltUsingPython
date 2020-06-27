@@ -1,5 +1,6 @@
 # Games built using PYTHON:
 Built a few games while learning Python.
+* *Their descriptions are given in their respective folders.*
 ### 1. Guessing Game 
 * Advanced
 ### 2. Rock Paper Scissors
@@ -8,6 +9,7 @@ Built a few games while learning Python.
 * A 2-Player Game, sitting on the same computer.
 * SIMPLE
 * ADVANCED
+
 ##
 ## NOTE: I have just built the logic for these games till now; and they can just be played on the Command Line (Terminal)/Jupyter Notebooks.
 ### NEXT GOAL:
