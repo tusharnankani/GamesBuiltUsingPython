@@ -17,3 +17,12 @@ Built a few games while learning Python.
 #### 1. Building GUI for all the games, using tkinter module.
 #### 2. Building another mode for TIC-TAC-TOE playing with the *Computer* - Levels (Easy/Intermediate/Difficult) 
 #### 3. Building a Machine Learning Model for Rock Paper Scissors with the Computer, using Convolutional Neural Network (CNN) using the Camera of the PC.
+
+
+#### To run it on your PC:
+* Make sure you have Python 3.7.x or Python 3.8.x installed, if not, click [here](https://www.python.org/downloads/) to install! 
+* Clone this into your Desktop: `git clone "https://github.com/tusharnankani/GamesBuiltUsingPython"`
+* Open Command Line or Terminal 
+* Change directory to a respective game: `cd "Desktop\GamesBuiltUsingPython\<game_name>"`
+* Run <game_name.py>: `python game_name.py`
+* And now have fun!
