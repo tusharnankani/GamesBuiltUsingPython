@@ -1,4 +1,5 @@
-# *Games built using PYTHON:*
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/tusharnankani/GamesBuiltUsingPython)
+# *Games built using PYTHON:* 
 Built a few games while learning Python.
 ###### (*Their descriptions are given in their respective folders.*)
 
