@@ -17,9 +17,9 @@ Built a few games while learning Python.
 ##
 ## NOTE: I have just built the logic for these games till now; and they can just be played on the Command Line (Terminal)/Jupyter Notebooks.
 ### *NEXT GOAL:*
-#### 0. Building GUI for all the games, using tkinter module.
-#### 1. Building another mode for TIC-TAC-TOE playing with the *Computer* - Levels (Easy/Intermediate/Difficult) 
-#### 2. Building a Machine Learning Model for Rock Paper Scissors with the Computer, using Convolutional Neural Network (CNN) using the Camera of the PC.
+#### 0. Building GUI for all the games, using the `tkinter` module.
+#### 1. Adding AI, building another mode for TIC-TAC-TOE playing with the *Computer* - Levels (Easy/Difficult) 
+#### 2. Building a Machine Learning Model for playing Rock Paper Scissors, real-time with the Computer, using Convolutional Neural Network (CNN).
 
 
 ### To run it on your PC:
