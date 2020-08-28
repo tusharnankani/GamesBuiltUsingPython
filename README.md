@@ -6,6 +6,7 @@
 
 ###### (*Their descriptions are given in their respective folders.*)
 
+## *GAMES*
 ### 0. [Guessing Game](https://github.com/tusharnankani/GamesBuiltUsingPython/tree/master/Guessing_Game) 
 * Advanced.
 ### 1. [Hangman](https://github.com/tusharnankani/GamesBuiltUsingPython/tree/master/Hangman_Game)
@@ -18,6 +19,13 @@
 * ADVANCED.
 * 1-Player Game (with the computer) added.
   * [Tic Tac Toe Artificial Intelligence Upgrade](https://github.com/tusharnankani/Tic-Tac-Toe-AI)
+ 
+## *Additional Python Projects*
+### 0. [Python Password Generator](https://github.com/tusharnankani/PythonPasswordGenerator) 
+### 1. [Python Auto Draw](https://github.com/tusharnankani/PythonAutoDraw)
+  
+  
+  
 ##
 * NOTE: I have just built the logic for these games till now; and they can just be played on the Command Line (Terminal)/Jupyter Notebooks.
 ### *NEXT GOAL:*
