@@ -56,10 +56,12 @@ def choice():
         if p1_choice == 'X' or p1_choice == 'O':
             #if entered value is X or O; get out of the loop; 
             break
+
         print("INVALID INPUT! Please Try Again!") 
         #if the entered value isn't X or O, re-run the while loop;
 
         #WHILE LOOP ENDS
+
     #Assigning the value to p2 and then diplaying the values;
     if p1_choice == 'X':
         p2_choice = 'O'
@@ -166,14 +168,13 @@ while True:
     print(f"{p2_name}:", p2_choice)
     
     #Printing randomly who will go first;
-    rando = first_player()
-    if rando == 0:
-        turn = p1_name
-    else:
+    if first_player():
         turn = p2_name
+    else:
+        turn = p1_name
     print(f"\n{turn} will go first!")
     
-    #Asking the user, if ready to play thee game; Output will be True or False;
+    #Asking the user, if ready to play the game; Output will be True or False;
     play_game = play()    
     
     while play_game:

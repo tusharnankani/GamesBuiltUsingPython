@@ -168,11 +168,10 @@ while True:
     print(f"{p2_name}:", p2_choice)
     
     #Printing randomly who will go first;
-    rando = first_player()
-    if rando == 0:
-        turn = p1_name
+    if first_player():
+        turn = p2_name
     else:
-        turn =p2_name
+        turn = p1_name
     print(f"\n{turn} will go first!")
     
     #Asking the user, if ready to play the game; Output will be True or False;
