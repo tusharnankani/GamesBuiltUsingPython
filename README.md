@@ -13,8 +13,8 @@ Built a few games while learning Python.
 * A 2-Player Game, sitting on the same computer.
 * SIMPLE.
 * ADVANCED.
-* 1-Player Game added.
-  * [Tic Tac Toe AI Upgrade](https://github.com/tusharnankani/Tic-Tac-Toe-AI)
+* 1-Player Game (with the computer) added.
+  * [Tic Tac Toe Artificial Intelligence Upgrade](https://github.com/tusharnankani/Tic-Tac-Toe-AI)
 ##
 ## NOTE: I have just built the logic for these games till now; and they can just be played on the Command Line (Terminal)/Jupyter Notebooks.
 ### *NEXT GOAL:*
