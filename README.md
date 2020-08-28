@@ -1,6 +1,9 @@
 
-# *Games built using PYTHON:* 
-Built a few games while learning Python.
+# *Games built using PYTHON:*
+
+![](https://tokei.rs/b1/github/tusharnankani/GamesBuiltUsingPython) ![](https://tokei.rs/b1/github/tusharnankani/GamesBuiltUsingPython?category=files)
+* Built a few games while learning Python.
+
 ###### (*Their descriptions are given in their respective folders.*)
 
 ### 0. [Guessing Game](https://github.com/tusharnankani/GamesBuiltUsingPython/tree/master/Guessing_Game) 
@@ -16,7 +19,7 @@ Built a few games while learning Python.
 * 1-Player Game (with the computer) added.
   * [Tic Tac Toe Artificial Intelligence Upgrade](https://github.com/tusharnankani/Tic-Tac-Toe-AI)
 ##
-## NOTE: I have just built the logic for these games till now; and they can just be played on the Command Line (Terminal)/Jupyter Notebooks.
+* NOTE: I have just built the logic for these games till now; and they can just be played on the Command Line (Terminal)/Jupyter Notebooks.
 ### *NEXT GOAL:*
 #### 0. Building GUI for all the games, using the `tkinter` module.
 #### 1. ~~Adding AI, building another mode for TIC-TAC-TOE playing with the *Computer* - Levels (Easy/Difficult)~~
@@ -24,7 +27,7 @@ Built a few games while learning Python.
 #### 2. Building a Machine Learning Model for playing Rock Paper Scissors, real-time with the Computer, using Convolutional Neural Network (CNN).
 
 
-### To run it on your PC:
+## *To run it on your PC*:
 * Make sure you have Python 3.7.x or Python 3.8.x installed, if not, click [here](https://www.python.org/downloads/) to install! 
 * Clone this into your Desktop: `git clone "https://github.com/tusharnankani/GamesBuiltUsingPython"`
 * Open Command Line or Terminal 
