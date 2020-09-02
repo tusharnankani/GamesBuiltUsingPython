@@ -15,9 +15,7 @@
 * With the computer.
 ### 3. [Tic-Tac-Toe](https://github.com/tusharnankani/GamesBuiltUsingPython/tree/master/TicTacToe_Game)
 * A 2-Player Game, sitting on the same computer.
-* SIMPLE.
-* ADVANCED.
-* 1-Player Game (with the computer) added.
+* 1-Player Game (with the computer) added and Computer vs. Computer (*for fun.*).
   * [Tic Tac Toe Artificial Intelligence Upgrade](https://github.com/tusharnankani/Tic-Tac-Toe-AI)
  
 ## *Additional Python Projects*
