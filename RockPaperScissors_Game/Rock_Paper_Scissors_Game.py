@@ -23,7 +23,7 @@ while(comp_count+user_count<games):
 	#It will always take input as a R
 	#Thereby, increasing the user input window;
 
-	for i in my_dict.keys():
+	for i in my_dict:
 		if(user_input==i):		#If the entered input is confined to Rock, Paper or Scissors;
 			flag=1
 			break
